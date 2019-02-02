@@ -1,0 +1,33 @@
+/* Latest Video Links */
+
+http://portfolio.test121.net/assets/latest_videos/Video1.mp4
+http://portfolio.test121.net/assets/latest_videos/Video2.mp4
+http://portfolio.test121.net/assets/latest_videos/Video3.mp4
+http://portfolio.test121.net/assets/latest_videos/Video4.mp4
+http://portfolio.test121.net/assets/latest_videos/Video5.mp4
+http://portfolio.test121.net/assets/latest_videos/Video6.mp4
+
+
+/* Other Stuff Links */
+
+http://portfolio.test121.net/assets/Uploads/Indian Calendar.pdf
+http://portfolio.test121.net/calc-master/calc.php
+http://portfolio.test121.net/clock-master/clock.php
+http://portfolio.test121.net/assets/Uploads/ParthShah - Gallery.pdf
+http://portfolio.test121.net/assets/Uploads/ParthShah - JanamKundali.pdf
+
+http://portfolio.test121.net/assets/Uploads/ParthShah - Hobbies & Interest.pdf
+http://portfolio.test121.net/assets/Uploads/ParthShah - Investment Management.pdf
+https://play.google.com/store/apps/details?id=com.parthbshah
+http://portfolio.test121.net/assets/Uploads/ParthShah_Message To Viewer.pdf
+
+http://portfolio.test121.net/assets/Uploads/Website Information.pdf
+http://portfolio.test121.net/jQuery-SlideShow-Master/dist/index.html
+http://portfolio.test121.net/assets/Uploads/SEO & Marketing.pdf
+http://portfolio.test121.net/assets/Uploads/ParthShah - Business Requirement.pdf
+
+http://portfolio.test121.net/assets/Uploads/ParthShah - Marriage_Biodata.pdf
+http://portfolio.test121.net/assets/Uploads/Disclaimer & Copyright Policy.pdf
+http://portfolio.test121.net/assets/Uploads/ParthShah - Reference Material.pdf
+https://goo.gl/maps/8ZmQdzzJdtA2
+http://portfolio.test121.net/assets/Uploads/ParthShah - ThankYou Note.pdf
